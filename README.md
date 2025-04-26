@@ -90,7 +90,7 @@ flutter-ecommerce-app/
 
 ## 👤 Author
 
-Developed with ❤️ by **Shoaib**  
+Developed with by **Shoaib**  
 🎓 CSE Student — *University of Chittagong*  
 🌐 GitHub: [S-h-o-a-i-b](https://github.com/S-h-o-a-i-b)  
 📬 Email: [shoaibcsecu@gmail.com](mailto:shoaibcsecu@gmail.com)
